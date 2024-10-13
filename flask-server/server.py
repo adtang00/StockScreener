@@ -6,7 +6,6 @@ import json
 import pandas as pd
 import yfinance as yf
 
-#alphaVantage api key: OXOPJNKCQ63P1O3R
 app = Flask(__name__)
 CORS(app)
 
